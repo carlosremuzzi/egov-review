@@ -1,2 +1,7 @@
-# egov-review
-Analysis over the state of the art in e-Government implementations
+============
+e-Gov Review
+============
+Analysis over the state of the art in e-Government.
+Based on the book Secure e-Government in Web Services.
+
+
